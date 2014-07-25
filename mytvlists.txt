@@ -1,25 +1,26 @@
-¹ã¶«Öé½­(ÌÚÑ¶),http://zb.v.qq.com:1863/?progid=1926463423#http://zb.v.qq.com:1863/?progid=1926463423&ostype=ios#http://zb.v.qq.com:1863/?progid=1926463423&ostype=live&ext=.flv
-¹ã¶«Öé½­(ÆäËû),rtmp://v2.gdtv.cn:1935/live/zjpd#rtsp://116.199.127.68/zhujiang
-¹ã¶«ÎÀÊÓ(ÌÚÑ¶),http://zb.v.qq.com:1863/?progid=2084914015#http://zb.v.qq.com:1863/?progid=2084914015&ostype=live&ext=.flv#http://zb.v.qq.com:1863/?progid=2084914015&ostype=ios
-¹ã¶«ÎÀÊÓHD(ÌÚÑ¶),http://zb.v.qq.com:1863/?progid=857894899#http://zb.v.qq.com:1863/?progid=857894899&ostype=live&ext=.flv#http://zb.v.qq.com:1863/?progid=857894899&ostype=ios
-ÉîÛÚÎÀÊÓ(ÌÚÑ¶),http://zb.v.qq.com:1863/?progid=2220552576#http://zb.v.qq.com:1863/?progid=2220552576&ostype=ios#http://zb.v.qq.com:1863/?progid=2220552576&ostype=live&ext=.flv
-ÉîÛÚÎÀÊÓHD(ÌÚÑ¶),http://zb.v.qq.com:1863/?progid=2220552576#http://zb.v.qq.com:1863/?progid=2220552576&ostype=ios#http://zb.v.qq.com:1863/?progid=2220552576&ostype=live&ext=.flv
-ÉîÛÚÎÀÊÓ(PPTV),http://web-play.pptv.com/web-m3u8-300188.m3u8?type=phone.android#http://web-play.pptv.com/web-m3u8-300188.m3u8?type=phone.ios#http://web-play.pptv.com/web-m3u8-300188.m3u8?type=pad#http://play.api.pptv.com/web-m3u8-300188.m3u8?type=ppbox
-ÉîÛÚÎÀÊÓ(ÆäËû),rtmp://live.s1979.com:1935/s1979live/video/sztv#rtmp://tv.sznews.com:1935/live/live_240_mc43#http://live.3gv.ifeng.com/live/SZWS.m3u8
-ÉîÛÚµçÊÓ¾ç(ÌìÍş),http://219.232.160.132/applelive/1e471ef1ab6b5ef3309a168acd7e8df2.m3u8#http://219.232.161.206:5090/livestream/xikf3h9q.flv
-¹ãÖİ×ÛºÏÆµµÀ(PPTV),http://web-play.pptv.com/web-m3u8-300410.m3u8?type=phone.android#http://web-play.pptv.com/web-m3u8-300410.m3u8?type=phone.ios#http://web-play.pptv.com/web-m3u8-300410.m3u8?type=pad#http://play.api.pptv.com/web-m3u8-300410.m3u8?type=ppbox
-¹ãÖİÓ°ÊÓ,rtsp://116.199.127.68/gztv_movie
-¹ãÖİÓ°ÊÓ(PPTV),http://web-play.pptv.com/web-m3u8-300451.m3u8?type=phone.android#http://web-play.pptv.com/web-m3u8-300451.m3u8?type=phone.ios#http://web-play.pptv.com/web-m3u8-300451.m3u8?type=pad#http://play.api.pptv.com/web-m3u8-300451.m3u8?type=ppbox
-ÄÏ·½Ó°ÊÓ(PPTV),http://web-play.pptv.com/web-m3u8-300449.m3u8?type=phone.android#http://web-play.pptv.com/web-m3u8-300449.m3u8?type=phone.ios#http://web-play.pptv.com/web-m3u8-300449.m3u8?type=pad#http://play.api.pptv.com/web-m3u8-300449.m3u8?type=ppbox
-ÄÏ·½ÎÀÊÓ(PPTV),http://web-play.pptv.com/web-m3u8-300405.m3u8?type=phone.android#http://web-play.pptv.com/web-m3u8-300405.m3u8?type=phone.ios#http://web-play.pptv.com/web-m3u8-300405.m3u8?type=pad#http://play.api.pptv.com/web-m3u8-300405.m3u8?type=ppbox
-ÄÏ·½×ÛÒÕ(PPTV),http://web-play.pptv.com/web-m3u8-300406.m3u8?type=phone.android#http://web-play.pptv.com/web-m3u8-300406.m3u8?type=phone.ios#http://web-play.pptv.com/web-m3u8-300406.m3u8?type=pad#http://play.api.pptv.com/web-m3u8-300406.m3u8?type=ppbox
-¹ã¶«Öé½­(PPTV),http://web-play.pptv.com/web-m3u8-300453.m3u8?type=phone.android#http://web-play.pptv.com/web-m3u8-300453.m3u8?type=phone.ios#http://web-play.pptv.com/web-m3u8-300453.m3u8?type=pad#http://play.api.pptv.com/web-m3u8-300453.m3u8?type=ppbox
-·ï»ËÎÀÊÓ(PPTV),http://web-play.pptv.com/web-m3u8-300621.m3u8?type=phone.android#http://web-play.pptv.com/web-m3u8-300621.m3u8?type=phone.ios
-·ï»ËÖĞÎÄ,http://119.188.2.59/zhongwen.m3u8#http://119.188.2.57/zhongwen.m3u8#http://live.3gv.ifeng.com/live/zhongwen.m3u8#http://live.gslb.letv.com/gslb?stream_id=fenghuang&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1030
-·ï»Ë×ÊÑ¶(PPTV),http://web-play.pptv.com/web-m3u8-300311.m3u8?type=phone.android#http://web-play.pptv.com/web-m3u8-300311.m3u8?type=phone.ios
-·ï»Ë×ÊÑ¶,http://119.188.2.57/zixun.m3u8#http://live.3gv.ifeng.com/live/zixun.m3u8
-·ï»ËÏã¸Û,http://119.188.2.57/hongkong.m3u8#http://119.188.2.59/hongkong.m3u8#http://live.3gv.ifeng.com/live/hongkong.m3u8#
-ôä´ä,mms://116.199.127.68/feicui#http://119.147.242.7:14164#http://119.147.242.7:14119
+ï»¿å¹¿ä¸œç æ±Ÿ(è…¾è®¯),http://zb.v.qq.com:1863/?progid=1926463423#http://zb.v.qq.com:1863/?progid=1926463423&ostype=ios#http://zb.v.qq.com:1863/?progid=1926463423&ostype=live&ext=.flv
+å¹¿ä¸œç æ±Ÿ(å…¶ä»–),rtmp://v2.gdtv.cn:1935/live/zjpd#rtsp://116.199.127.68/zhujiang
+å¹¿ä¸œç æ±Ÿ(PPTV),http://web-play.pptv.com/web-m3u8-300453.m3u8?type=phone.android#http://web-play.pptv.com/web-m3u8-300453.m3u8?type=phone.ios#http://web-play.pptv.com/web-m3u8-300453.m3u8?type=pad#http://play.api.pptv.com/web-m3u8-300453.m3u8?type=ppbox
+å¹¿ä¸œå«è§†(è…¾è®¯),http://zb.v.qq.com:1863/?progid=2084914015#http://zb.v.qq.com:1863/?progid=2084914015&ostype=live&ext=.flv#http://zb.v.qq.com:1863/?progid=2084914015&ostype=ios
+å¹¿ä¸œå«è§†HD(è…¾è®¯),http://zb.v.qq.com:1863/?progid=857894899#http://zb.v.qq.com:1863/?progid=857894899&ostype=live&ext=.flv#http://zb.v.qq.com:1863/?progid=857894899&ostype=ios
+æ·±åœ³å«è§†(è…¾è®¯),http://zb.v.qq.com:1863/?progid=2220552576#http://zb.v.qq.com:1863/?progid=2220552576&ostype=ios#http://zb.v.qq.com:1863/?progid=2220552576&ostype=live&ext=.flv
+æ·±åœ³å«è§†HD(è…¾è®¯),http://zb.v.qq.com:1863/?progid=2220552576#http://zb.v.qq.com:1863/?progid=2220552576&ostype=ios#http://zb.v.qq.com:1863/?progid=2220552576&ostype=live&ext=.flv
+æ·±åœ³å«è§†(PPTV),http://web-play.pptv.com/web-m3u8-300188.m3u8?type=phone.android#http://web-play.pptv.com/web-m3u8-300188.m3u8?type=phone.ios#http://web-play.pptv.com/web-m3u8-300188.m3u8?type=pad#http://play.api.pptv.com/web-m3u8-300188.m3u8?type=ppbox
+æ·±åœ³å«è§†(å…¶ä»–),rtmp://live.s1979.com:1935/s1979live/video/sztv#rtmp://tv.sznews.com:1935/live/live_240_mc43#http://live.3gv.ifeng.com/live/SZWS.m3u8
+æ·±åœ³ç”µè§†å‰§(å¤©å¨),http://219.232.160.132/applelive/1e471ef1ab6b5ef3309a168acd7e8df2.m3u8#http://219.232.161.206:5090/livestream/xikf3h9q.flv
+å¹¿å·ç»¼åˆé¢‘é“(PPTV),http://web-play.pptv.com/web-m3u8-300410.m3u8?type=phone.android#http://web-play.pptv.com/web-m3u8-300410.m3u8?type=phone.ios#http://web-play.pptv.com/web-m3u8-300410.m3u8?type=pad#http://play.api.pptv.com/web-m3u8-300410.m3u8?type=ppbox
+å¹¿å·å½±è§†(PPTV),http://web-play.pptv.com/web-m3u8-300451.m3u8?type=phone.android#http://web-play.pptv.com/web-m3u8-300451.m3u8?type=phone.ios#http://web-play.pptv.com/web-m3u8-300451.m3u8?type=pad#http://play.api.pptv.com/web-m3u8-300451.m3u8?type=ppbox
+å¹¿å·å½±è§†,rtsp://116.199.127.68/gztv_movie
+å—æ–¹å½±è§†(PPTV),http://web-play.pptv.com/web-m3u8-300449.m3u8?type=phone.android#http://web-play.pptv.com/web-m3u8-300449.m3u8?type=phone.ios#http://web-play.pptv.com/web-m3u8-300449.m3u8?type=pad#http://play.api.pptv.com/web-m3u8-300449.m3u8?type=ppbox
+å—æ–¹å«è§†(PPTV),http://web-play.pptv.com/web-m3u8-300405.m3u8?type=phone.android#http://web-play.pptv.com/web-m3u8-300405.m3u8?type=phone.ios#http://web-play.pptv.com/web-m3u8-300405.m3u8?type=pad#http://play.api.pptv.com/web-m3u8-300405.m3u8?type=ppbox
+å—æ–¹ç»¼è‰º(PPTV),http://web-play.pptv.com/web-m3u8-300406.m3u8?type=phone.android#http://web-play.pptv.com/web-m3u8-300406.m3u8?type=phone.ios#http://web-play.pptv.com/web-m3u8-300406.m3u8?type=pad#http://play.api.pptv.com/web-m3u8-300406.m3u8?type=ppbox
+å‡¤å‡°å«è§†ä¸­æ–‡å°(PPTV),http://web-play.pptv.com/web-m3u8-300621.m3u8?type=phone.android#http://web-play.pptv.com/web-m3u8-300621.m3u8?type=phone.ios
+å‡¤å‡°å«è§†ä¸­æ–‡å°,http://119.188.2.59/zhongwen.m3u8#http://119.188.2.57/zhongwen.m3u8#http://live.3gv.ifeng.com/live/zhongwen.m3u8#http://live.gslb.letv.com/gslb?stream_id=fenghuang&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1030
+å‡¤å‡°èµ„è®¯(PPTV),http://web-play.pptv.com/web-m3u8-300311.m3u8?type=phone.android#http://web-play.pptv.com/web-m3u8-300311.m3u8?type=phone.ios
+å‡¤å‡°èµ„è®¯,http://119.188.2.57/zixun.m3u8#http://live.3gv.ifeng.com/live/zixun.m3u8
+å‡¤å‡°é¦™æ¸¯,http://119.188.2.57/hongkong.m3u8#http://119.188.2.59/hongkong.m3u8#http://live.3gv.ifeng.com/live/hongkong.m3u8
+ç¿¡ç¿ ,mms://116.199.127.68/feicui#http://119.147.242.7:14164#http://119.147.242.7:14119#http://122.226.79.237:2505
+TVBæ˜ç å°,http://119.147.242.7:14080
 CCTV5,rtsp://stream1.gzcbn.tv:1935/app_2/ls_6.stream?domain=gztv#rtsp://stream11.gzcbn.tv:1935/app_2/ls_6.stream?domain=gztv
-CCTV5(HD),rtsp://stream1.gzcbn.tv:1935/app_2/ls_5.stream?domain=gztv#rtsp://stream11.gzcbn.tv:1935/app_2/ls_5.stream?domain=gztv#mms://officetv.bupt.edu.cn/CCTV-5
-CCTV5(Ò×Ë¼ÌÚÔ´),http://jxlive01.jx.ysten.com:8080/ysten-businessmobile/live/cctv-5/index.m3u8#http://223.82.250.3:8080/ysten-businessmobile/live/cctv-5/dujuejiami.m3u8,http://223.82.250.4:8080/ysten-businessmobile/live/cctv-5/dujuejiami.m3u8,http://223.82.250.31:8080/ysten-businessmobile/live/cctv-5/dujuejiami.m3u8#http://223.82.250.61:8080/ysten-businessmobile/live/cctv-5/dujuejiami.m3u8#http://223.82.250.66:8080/ysten-businessmobile/live/cctv-5/dujuejiami.m3u8#http://223.82.250.125:8080/ysten-businessmobile/live/cctv-5/dujuejiami.m3u8
+CCTV5(HD),rtsp://stream1.gzcbn.tv:1935/app_2/ls_5.stream?domain=gztv#rtsp://stream11.gzcbn.tv:1935/app_2/ls_5.stream?domain=gztv#mms://officetv.bupt.edu.cn/CCTV-5#http://119.147.242.8:14186
+CCTV5(æ˜“æ€è…¾æº),http://jxlive01.jx.ysten.com:8080/ysten-businessmobile/live/cctv-5/index.m3u8#http://223.82.250.3:8080/ysten-businessmobile/live/cctv-5/dujuejiami.m3u8,http://223.82.250.4:8080/ysten-businessmobile/live/cctv-5/dujuejiami.m3u8,http://223.82.250.31:8080/ysten-businessmobile/live/cctv-5/dujuejiami.m3u8#http://223.82.250.61:8080/ysten-businessmobile/live/cctv-5/dujuejiami.m3u8#http://223.82.250.66:8080/ysten-businessmobile/live/cctv-5/dujuejiami.m3u8#http://223.82.250.125:8080/ysten-businessmobile/live/cctv-5/dujuejiami.m3u8
