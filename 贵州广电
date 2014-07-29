@@ -1,0 +1,8 @@
+格式
+可变         ↓                        ↓     
+rtsp://stream3.gzcbn.tv:1935/app_2/ls_2.stream?domain=gztv
+数字皆可测试
+
+ls_1 高清；ls_2 标清。34，56，78同理
+
+rtsp://stream3.gzcbn.tv:554/app_2/ls_7.stream?domain=gztv
